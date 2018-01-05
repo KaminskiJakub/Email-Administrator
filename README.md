@@ -1,6 +1,6 @@
 # Email-Administrator
 
-IT Support Administrator has responsibilities of creating email accounts.
+IT Support Administrator has responsibilities of creating email accounts and has a control over this application.
 
 Email Administrator application:
 - generetes an email with a specific syntax: firstname.lastname@department.company.com
